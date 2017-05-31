@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Emulador</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_dashboard">Examenes</string>
+    <string name="title_notifications">Guías</string>
+</resources>
